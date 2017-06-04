@@ -1,7 +1,9 @@
 # Gabriel Brito dos Santos
 
 **Website:** [gabriel-brito.github.io](https://gabriel-brito.github.io/)
+
 **[Linkedin](https://www.linkedin.com/in/gbsantos/)**
+
 **E-mail:** mfkrgabriel@gmail.com
 
 ## Sobre mim
