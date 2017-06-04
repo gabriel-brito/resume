@@ -25,7 +25,7 @@ Sou curioso por natureza. Estudei inglês sozinho, desenvolvimento de software (
 
 * HTML/CSS e JavaScript.
 * [Sass](http://sass-lang.com/), [Bootstrap](http://getbootstrap.com/) e [BEM](http://getbem.com/introduction/).
-* [ReactJs](https://facebook.github.io/react/).
+* [ReactJs](https://facebook.github.io/react/) e [JQuery](https://jquery.com/).
 * [Responsive Design](http://arquiteturadeinformacao.com/mobile/o-que-e-responsive-web-design/).
 * Front End Tools - [Bower](https://bower.io/), [NPM](https://www.npmjs.com/) e [Webpack](https://webpack.github.io/).
 * [Git](https://git-scm.com/) e [Github](https://github.com).
