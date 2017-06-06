@@ -28,6 +28,7 @@ Sou curioso por natureza. Estudei inglês sozinho, desenvolvimento de software (
 * [ReactJs](https://facebook.github.io/react/) e [JQuery](https://jquery.com/).
 * [Responsive Design](http://arquiteturadeinformacao.com/mobile/o-que-e-responsive-web-design/).
 * Front End Tools - [Bower](https://bower.io/), [NPM](https://www.npmjs.com/) e [Webpack](https://webpack.github.io/).
+* CMS - WordPress.
 * [Git](https://git-scm.com/) e [Github](https://github.com).
 * Conhecimento básico de [PHP](https://secure.php.net/), [C](https://www.programiz.com/c-programming), [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-2016).
 * [Scrum](https://www.scrum.org/), [Google Keep](https://keep.google.com/) e [Trello](https://trello.com/).
