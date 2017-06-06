@@ -35,8 +35,6 @@ Sou curioso por natureza. Estudei inglês sozinho, desenvolvimento de software (
 
 ## Extras
 
-**Projetos Open Source**
-
 * [Pupilo no Training Center!](https://github.com/training-center/mentoria)
 * [Inglês nível intermediário](https://en.wikipedia.org/wiki/English_language).
 
