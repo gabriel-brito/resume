@@ -19,6 +19,7 @@ Sou curioso por natureza. Estudei inglês sozinho, desenvolvimento de software (
 ## Projetos:
 
 - [PokeSearch - Você pode buscar detalhes do seu pokémon preferido direto do terminal!](https://github.com/gabriel-brito/poke-search)
+- [StarWars Catalogue - Você pode buscar detalhes do seu personagem preferido da franquia StarWars e pode ver seus detalhes!](https://github.com/gabriel-brito/starwars-catalogue)
 - [Codepen.io - Aqui tem alguns projetos desde que comecei a codar!](https://codepen.io/gabriel-brito/)
 
 ## Habilidades
