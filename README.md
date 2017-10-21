@@ -36,10 +36,8 @@ Sou curioso por natureza. Estudei inglês sozinho, desenvolvimento de software (
 
 ## Cursos Complementares
 
-```
 * [JavaScript com TDD na prática](https://www.udemy.com/js-com-tdd-na-pratica)
 > Estado: Cursando.
-```
 
 ## Extras
 
