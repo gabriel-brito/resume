@@ -34,6 +34,13 @@ Sou curioso por natureza. Estudei inglês sozinho, desenvolvimento de software (
 * Conhecimento básico de [PHP](https://secure.php.net/), [C](https://www.programiz.com/c-programming), [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-2016).
 * [Scrum](https://www.scrum.org/), [Google Keep](https://keep.google.com/) e [Trello](https://trello.com/).
 
+## Cursos Complementares
+
+```
+* [JavaScript com TDD na prática](https://www.udemy.com/js-com-tdd-na-pratica)
+> Estado: Cursando.
+```
+
 ## Extras
 
 * [Pupilo no Training Center!](https://github.com/training-center/mentoria)
