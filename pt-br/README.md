@@ -8,13 +8,13 @@
 
 ## Sobre mim
 
-Me chamo Gabriel Brito dos Santos, sou desenvolvedor Front-End, estudante de Analise e Desenvolvimento de sistemas (ADS) e Autodidata, tenho 19 anos e atualmente moro em São Bernardo do Campo, São Paulo.
+Me chamo Gabriel Brito dos Santos, sou desenvolvedor Front-End, estudante de Analise e Desenvolvimento de sistemas (ADS) e Autodidata, tenho 20 anos e atualmente moro em São Bernardo do Campo, São Paulo.
 
-Conheci o mundo da programação de bobeira "programando"​ em arquivos .lua em servidores de tibia há uns 6,7 anos atrás. Mas só conheci o mundo do Front-End no ano de 2016 e me apaixonei de cara!
+Conheci o mundo da programação de bobeira "programando"​ em arquivos .lua em servidores de tibia há uns 7,8 anos atrás. Mas só conheci o mundo do Front-End no ano de 2016 e me apaixonei de cara!
 
 Pela paixão que gerei pelo Front-End e por programar, resolvi entrar em uma Faculdade da área de TI, e cada dia que passa, gosto mais e mais do que faço!
 
-Sou curioso por natureza. Estudei inglês sozinho, desenvolvimento de software (com a ajuda de um mentor), gosto também de psicologia e até aprendi o Hiragana da língua Japonesa!
+Sou curioso por natureza. Estudei inglês sozinho, desenvolvimento de software (com a ajuda de um [mentor](https://github.com/training-center/mentoria)), gosto também de psicologia e até aprendi o Hiragana da língua Japonesa!
 
 ## Projetos:
 
@@ -46,6 +46,6 @@ Sou curioso por natureza. Estudei inglês sozinho, desenvolvimento de software (
 
 ## Experiência Profissional
 
-### Desenvolvedor Front End - NewMind Comunicação - 05/2017 - Atualmente
+### Desenvolvedor Front End - NewMind Comunicação - 05/2017 - 11/2017
 
 > Um dos 3 responsáveis pelo desenvolvimento Front-End da empresa. Comecei a pouco na empresa, mas já venho acresentando valor com meu trabalho e dedicação!
