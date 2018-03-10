@@ -4,7 +4,7 @@
 
 Alt-H2 Português
 ------
-Para me conhecer em português, clique [aqui]('./pt-br/README.md')!
+Para me conhecer em português, clique [aqui](/pt-br/README.md)!
 
 
 Alt-H2 English
