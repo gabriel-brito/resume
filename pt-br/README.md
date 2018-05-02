@@ -50,7 +50,7 @@ Sou curioso por natureza. Estudei inglês sozinho, desenvolvimento de software (
 
 ## Experiência Profissional
 
-### Desenvolvedor Front-End | Itelios - Digital Commerce & Services | 05/2017 - 11/2017
+### Desenvolvedor Front-End | Itelios - Digital Commerce & Services | 11/2017 - Atualmente
 
 > Como membro do time de desenvolvimento Front-End, sou responsável pela implementação, criação e manutenção de novas features com as plataformas Vtex, Drupal e Magento. O foco trabalhado vem sendo em cima das boas práticas (Scrum, BEM, Automação de tarefas, Componentização, Minificação de código) e das melhores tecnologias (Gulp, Jeet, Stylus, JavaScript) para uma melhor performance e um número mínimo de bugs em cada projeto.
 
