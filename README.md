@@ -2,11 +2,11 @@
 	<img src="./docs/dev-background.jpg" alt="Programmer Wallpaper">
 </p>
 
-Alt-H2 Português
+Português
 ------
 Para me conhecer em português, clique [aqui](/pt-br/README.md)!
 
 
-Alt-H2 English
+English
 ------
 Under construction;
